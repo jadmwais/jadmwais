@@ -1,36 +1,62 @@
 # 👋 Hi there! I'm Jad Mwais
 
-🎓 Computer Science student • 🔐 Aspiring Cybersecurity Student  
+🎓 Computer Science Student • 🔐 Aspiring Cybersecurity Professional  
 📍 Based in Irvine, CA
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Building [**Algo Engineering**](https://github.com/YOUR_USERNAME/algo-engineering) – a personal repo of classic algorithms, real-world analogies, and interactive Python scripts.
+- Building [**Algo Engineering**](https://github.com/jadmwais/algo-engineering) – a personal repo of classic algorithms, real-world analogies, and interactive Python scripts.
 - Sharpening my skills in **backend development** and **cybersecurity**
 - Learning new tools and diving deeper into **data structures**, **system design**, and **network security**
 
 ---
 
-## 📂 Featured Repositories
+## 📂 Featured Repository
 
 ### 🧮 [Algo Engineering](https://github.com/jadmwais/algo-engineering)
 > A growing CS portfolio of clean, tested Python algorithms  
-> Includes:  
-> 🔹 Sorting (Bubble, Merge, Insertion, Selection, Quick, Radix)  
-> 🔹 Graph Algorithms (Dijkstra, Kruskal, Prim)  
-> 🔹 Real-world use cases + execution timing  
-> 🔹 Clear, professional documentation
+
+Includes:
+- 🔹 Sorting (Bubble, Merge, Insertion, Selection, Quick, Radix)  
+- 🔹 Graph Algorithms (Dijkstra, Kruskal, Prim)  
+- 🔹 Real-world use cases + execution timing  
+- 🔹 Clear, professional documentation
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Tools & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</p>
+
+---
+
+## 💻 Tech Stack
 
 **Languages:** Python, Java, C++, JavaScript, Swift (learning)  
 **Tools:** Git, GitHub, VS Code, Terminal, Figma  
 **Concepts:** OOP, Algorithms & Data Structures, SDLC, Debugging  
 **Cybersecurity Focus:** Threat modeling, defensive protocols, vulnerability analysis
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jadmwais&show_icons=true&theme=tokyonight" width="47.5%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadmwais&layout=compact&theme=tokyonight" width="47.5%"/>
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=jadmwais&theme=tokyonight" width="95%"/>
+</p>
 
 ---
 
@@ -52,27 +78,14 @@
 
 ---
 
-## 📫 Let's Connect!
+## 📫 Let's Connect
 
-- Email: **jadabu123@gmail.com**
-- LinkedIn: https://www.linkedin.com/in/jadmwais/
+- 📧 Email: **jadabu123@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/jadmwais](https://www.linkedin.com/in/jadmwais/)
 
 ---
 
-Thanks for stopping by — and welcome to my journey 🚀
+> Thanks for stopping by — and welcome to my journey 🚀
 
 
-<!--
-**jadmwais/jadmwais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
