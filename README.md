@@ -8,21 +8,35 @@
 ## 🚀 What I'm Working On
 
 - Building [**Algo Engineering**](https://github.com/jadmwais/algo-engineering) – a personal repo of classic algorithms, real-world analogies, and interactive Python scripts.
+- Expanding [**CS Projects**](https://github.com/jadmwais/cs-projects) – a C++ project hub with clean implementations of core data structures.
 - Sharpening my skills in **backend development** and **cybersecurity**
 - Learning new tools and diving deeper into **data structures**, **system design**, and **network security**
 
 ---
 
-## 📂 Featured Repository
+## 📂 Featured Repositories
 
 ### 🧮 [Algo Engineering](https://github.com/jadmwais/algo-engineering)
 > A growing CS portfolio of clean, tested Python algorithms  
 
 Includes:
-- 🔹 Sorting (Bubble, Merge, Insertion, Selection, Quick, Radix)  
-- 🔹 Graph Algorithms (Dijkstra, Kruskal, Prim)  
+- 🔹 Sorting: Bubble, Merge, Insertion, Selection, Quick, Radix  
+- 🔹 Graph Algorithms: Dijkstra, Kruskal, Prim  
 - 🔹 Real-world use cases + execution timing  
 - 🔹 Clear, professional documentation
+
+---
+
+### 💾 [CS Projects](https://github.com/jadmwais/cs-projects)
+> A collection of foundational C++ data structures and class-based projects  
+
+Includes:
+- ✅ Singly Linked List  
+- ✅ Stack (Array)  
+- ✅ Queue (Array)  
+- ✅ Binary Search Tree  
+- ✅ Hash Map (Separate Chaining)  
+- 📁 More to come: systems programming, cybersecurity, dynamic structures
 
 ---
 
