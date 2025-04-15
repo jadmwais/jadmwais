@@ -1,16 +1,16 @@
 # 👋 Hi there! I'm Jad Mwais
 
-🎓 Computer Science Student • 🔐 Aspiring Cybersecurity Professional  
-📍 Based in Irvine, CA
+🎓 Computer Science Student • 🔐 Cybersecurity & Backend Development Enthusiast  
+📍 Irvine, CA
 
 ---
 
 ## 🚀 What I'm Working On
 
-- Building [**Algo Engineering**](https://github.com/jadmwais/algo-engineering) – a personal repo of classic algorithms, real-world analogies, and interactive Python scripts.
-- Expanding [**CS Projects**](https://github.com/jadmwais/cs-projects) – a C++ project hub with clean implementations of core data structures.
-- Sharpening my skills in **backend development** and **cybersecurity**
-- Learning new tools and diving deeper into **data structures**, **system design**, and **network security**
+- Building [**Algo Engineering**](https://github.com/jadmwais/algo-engineering) – Python-based repo of sorting algorithms, graph traversal, and clean coding patterns.
+- Expanding [**CS Projects**](https://github.com/jadmwais/cs-projects) – C++ implementations of core data structures and classwork.
+- Growing [**Cyber Lab**](https://github.com/jadmwais/cyber-lab) – Hands-on security tools like port scanners, hash crackers, and login simulations.
+- Strengthening skills in **systems programming**, **networking**, and **auth/security design**
 
 ---
 
@@ -19,24 +19,32 @@
 ### 🧮 [Algo Engineering](https://github.com/jadmwais/algo-engineering)
 > A growing CS portfolio of clean, tested Python algorithms  
 
-Includes:
-- 🔹 Sorting: Bubble, Merge, Insertion, Selection, Quick, Radix  
-- 🔹 Graph Algorithms: Dijkstra, Kruskal, Prim  
-- 🔹 Real-world use cases + execution timing  
-- 🔹 Clear, professional documentation
+- 🔹 Sorting: Bubble, Merge, Quick, Insertion, Selection, Radix  
+- 🔹 Graphs: Dijkstra, Kruskal, Prim  
+- ⏱ Execution timing + clean documentation
 
 ---
 
 ### 💾 [CS Projects](https://github.com/jadmwais/cs-projects)
-> A collection of foundational C++ data structures and class-based projects  
+> A C++ collection of data structures and coursework
 
-Includes:
 - ✅ Singly Linked List  
-- ✅ Stack (Array)  
-- ✅ Queue (Array)  
+- ✅ Stack, Queue (Array)  
 - ✅ Binary Search Tree  
 - ✅ Hash Map (Separate Chaining)  
-- 📁 More to come: systems programming, cybersecurity, dynamic structures
+- 🚀 Coming soon: Memory allocator, system-level tools, recursion labs
+
+---
+
+### 🛡️ [Cyber Lab](https://github.com/jadmwais/cyber-lab)
+> Small security-focused tools built in Python and C++
+
+- 🔍 Port Scanner (Python & C++)  
+- 🔐 Password Strength Checker  
+- 🔑 Hash Generator (MD5/SHA256)  
+- 🔓 Hash Cracker (Dictionary Attack)  
+- 🧾 Secure Login Simulation  
+- 🧪 Coming soon: Packet Sniffer, Encrypted Vault, Brute Force Sim
 
 ---
 
@@ -55,10 +63,9 @@ Includes:
 
 ## 💻 Tech Stack
 
-**Languages:** Python, Java, C++, JavaScript, Swift (learning)  
+**Languages:** Python, C++, Java, JavaScript, Swift (learning)  
 **Tools:** Git, GitHub, VS Code, Terminal, Figma  
-**Concepts:** OOP, Algorithms & Data Structures, SDLC, Debugging  
-**Cybersecurity Focus:** Threat modeling, defensive protocols, vulnerability analysis
+**Focus Areas:** OOP, SDLC, Cybersecurity, Data Structures, File I/O, Networking
 
 ---
 
@@ -68,26 +75,14 @@ Includes:
   <img src="https://github-readme-stats.vercel.app/api?username=jadmwais&show_icons=true&theme=tokyonight" width="47.5%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadmwais&layout=compact&theme=tokyonight" width="47.5%"/>
 </p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=jadmwais&theme=tokyonight" width="95%"/>
-</p>
-
----
-
-## 🎯 Goals for 2024
-
-- ✅ Complete 100+ algorithm problems  
-- 🔒 Earn CompTIA A+ certification  
-- 👨‍💻 Start contributing to open source  
-- 🌐 Build a personal portfolio site
 
 ---
 
 ## 🌱 Fun Facts
 
-- ⚽ I was a soccer team captain  
-- 🎮 I’ve competed on an E-sports team  
-- 🌳 I led a city-wide tree planting initiative  
+- ⚽ Former soccer team captain  
+- 🎮 E-sports competitor  
+- 🌳 Led a city-wide tree planting initiative  
 - 🧠 I learn best by **building, breaking, and fixing**
 
 ---
@@ -95,11 +90,12 @@ Includes:
 ## 📫 Let's Connect
 
 - 📧 Email: **jadabu123@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/jadmwais](https://www.linkedin.com/in/jadmwais/)
+- 💼 LinkedIn: [linkedin.com/in/jadmwais](https://www.linkedin.com/in/jadmwais)
 
 ---
 
 > Thanks for stopping by — and welcome to my journey 🚀
+
 
 
 
