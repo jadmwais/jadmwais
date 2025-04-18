@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Jad Mwais
 
-🎓 Computer Science Student • 🔐 Cybersecurity & Backend Development Enthusiast  
+🎓 Computer Science Student • 🔐 Cybersecurity & Backend Dev Enthusiast • 🤖 AI Explorer  
 📍 Irvine, CA
 
 ---
@@ -9,42 +9,54 @@
 
 - Building [**Algo Engineering**](https://github.com/jadmwais/algo-engineering) – Python-based repo of sorting algorithms, graph traversal, and clean coding patterns.
 - Expanding [**CS Projects**](https://github.com/jadmwais/cs-projects) – C++ implementations of core data structures and classwork.
-- Growing [**Cyber Lab**](https://github.com/jadmwais/cyber-lab) – Hands-on security tools like port scanners, hash crackers, and login simulations.
-- Strengthening skills in **systems programming**, **networking**, and **auth/security design**
+- Growing [**Cyber Lab**](https://github.com/jadmwais/cyber-lab) – Hands-on security tools like port scanners, hash crackers, brute-force sims, and login systems.
+- Developing [**AI Playground**](https://github.com/jadmwais/ai-playground) – A lab of real-world AI tools using NLP, transformers, OCR, and JavaScript UIs.
+- Strengthening my skills in **auth systems**, **system-level tools**, **prompt design**, and **machine learning APIs**
 
 ---
 
 ## 📂 Featured Repositories
 
 ### 🧮 [Algo Engineering](https://github.com/jadmwais/algo-engineering)
-> A growing CS portfolio of clean, tested Python algorithms  
+> A CS portfolio of clean Python algorithms with real-world context
 
-- 🔹 Sorting: Bubble, Merge, Quick, Insertion, Selection, Radix  
+- 🔹 Sorting: Bubble, Merge, Insertion, Selection, Quick, Radix  
 - 🔹 Graphs: Dijkstra, Kruskal, Prim  
-- ⏱ Execution timing + clean documentation
+- ⏱ Execution timing + clean user-driven inputs
 
 ---
 
 ### 💾 [CS Projects](https://github.com/jadmwais/cs-projects)
-> A C++ collection of data structures and coursework
+> C++ data structures and class-based simulations
 
 - ✅ Singly Linked List  
-- ✅ Stack, Queue (Array)  
+- ✅ Stack, Queue (Array-based)  
 - ✅ Binary Search Tree  
 - ✅ Hash Map (Separate Chaining)  
-- 🚀 Coming soon: Memory allocator, system-level tools, recursion labs
+- 🔧 Coming soon: memory allocators, shell CLI, file I/O tools
 
 ---
 
 ### 🛡️ [Cyber Lab](https://github.com/jadmwais/cyber-lab)
-> Small security-focused tools built in Python and C++
+> Security tools & CTF-style demos written in Python and C++
 
-- 🔍 Port Scanner (Python & C++)  
+- 🔍 Port Scanner (Python + C++)  
 - 🔐 Password Strength Checker  
-- 🔑 Hash Generator (MD5/SHA256)  
-- 🔓 Hash Cracker (Dictionary Attack)  
+- 🔑 Hash Generator + Cracker  
+- 🔓 Brute Force Simulator  
 - 🧾 Secure Login Simulation  
-- 🧪 Coming soon: Packet Sniffer, Encrypted Vault, Brute Force Sim
+- 💡 Future: packet sniffer, encrypted vault, quiz tool
+
+---
+
+### 🤖 [AI Playground](https://github.com/jadmwais/ai-playground)
+> AI-powered tools and learning projects
+
+- 🧠 Sentiment Analyzer – emotional tone detection with `textblob`  
+- 🖼 Image to Text – OCR using `pytesseract`  
+- 📝 Text Summarizer – powered by `facebook/bart-large-cnn`  
+- 🧪 Prompt Playground – JavaScript frontend with GPT-3.5  
+- 📚 AI Notes – Markdown explainers on APIs, fine-tuning, LLM concepts
 
 ---
 
@@ -54,8 +66,9 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 </p>
 
@@ -65,7 +78,7 @@
 
 **Languages:** Python, C++, Java, JavaScript, Swift (learning)  
 **Tools:** Git, GitHub, VS Code, Terminal, Figma  
-**Focus Areas:** OOP, SDLC, Cybersecurity, Data Structures, File I/O, Networking
+**Focus Areas:** Cybersecurity, AI/NLP, Data Structures, Prompt Engineering, File I/O, Web APIs
 
 ---
 
@@ -95,6 +108,7 @@
 ---
 
 > Thanks for stopping by — and welcome to my journey 🚀
+
 
 
 
